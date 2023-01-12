@@ -1,4 +1,4 @@
-<p align="center"><a href="https://itzHarshilDudhat.github.io"><img width="80%" alt="Hello, I'm Harshil. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="[https://itzHarshilDudhat.github.io](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fpub%2Fdir%2FHarshil%2F~~~~~~%2Fin-7065-Greater-Ahmedabad-Area&psig=AOvVaw1jYr6z00sEbsqYKjnPH6qB&ust=1673622236137000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCD7-imwvwCFQAAAAAdAAAAABAJ)"><img width="80%" alt="Hello, I'm Harshil. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
