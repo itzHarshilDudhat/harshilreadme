@@ -1,20 +1,31 @@
-I'm a self-taught passionate Mern stack developer from India 🇮🇳
+# Hi, I'm Harshil Dudhat 👋  
 
-**About me**
+I’m a **Full-Stack JavaScript Developer** with experience in building and managing scalable, user-friendly web applications and REST APIs. My passion lies in creating efficient and elegant solutions for modern web development challenges.
 
-- 💼 Mern stack developer freelancer
+---
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+## 🛠️ Skills  
 
-- 💬 Ask me about anything [here](https://github.com/itzHarshilDudhat/itzHarshilDudhat/issues)
+- **Frontend**: React.js, Next.js, Tailwind CSS  
+- **Backend**: Node.js, Express.js, TypeScript  
+- **Database**: MongoDB, MySQL, PostgreSQL  
+- **DevOps**: AWS (EC2, S3, Route 53), Render, Vercel  
+- **APIs**: RESTful APIs, OpenAI API, Google APIs  
+- **Other Tools**: Redux Toolkit, Formik, Yup, Socket.IO  
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+---
 
-<h3>Here is my typing speed details ❤️ </h3>
-<h5>Race with me!!!</h5>
+## 🚀 Projects  
 
-<a href="https://data.typeracer.com/pit/profile?user=itz_harshil&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=itz_harshil" border="0" alt="TypeRacer.com scorecard for user itz_harshil"/></a>
+### **Property Management System**  
+A MERN stack project for property dealers and customers to manage sales and rentals.  
+- **Features**: SEO-friendly Next.js website, admin panel with React.js, and backend with Node.js.  
+
+---
+
+## 💼 Work Philosophy  
+I believe in delivering high-quality, scalable solutions while maintaining clear and transparent communication.  
+
+---
+
+🌟 _"Let's turn your ideas into reality together."_  
